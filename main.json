@@ -1,15 +1,15 @@
 {"high_appear":
   [ 
-    {"range":"all", "nums":[{"num":13, "cnt":20}, {"num":22, "cnt":19}, {"num":42, "cnt":9}]},
-    {"range":"last10", "nums":[{"num":13, "cnt":20}, {"num":22, "cnt":19}, {"num":42, "cnt":9}]},
-    {"range":"last20", "nums":[{"num":13, "cnt":20}, {"num":22, "cnt":19}, {"num":42, "cnt":9}]},
-    {"range":"last50", "nums":[{"num":13, "cnt":20}, {"num":22, "cnt":19}, {"num":42, "cnt":9}]},
-    {"range":"last100", "nums":[{"num":13, "cnt":20}, {"num":22, "cnt":19}, {"num":42, "cnt":9}]},
-    {"range":"last200", "nums":[{"num":13, "cnt":20}, {"num":22, "cnt":19}, {"num":42, "cnt":9}]}
+    {"range":"0", "nums":[{"num":13, "cnt":20}, {"num":22, "cnt":19}, {"num":42, "cnt":9}]},
+    {"range":"10", "nums":[{"num":13, "cnt":20}, {"num":22, "cnt":19}, {"num":42, "cnt":9}]},
+    {"range":"20", "nums":[{"num":13, "cnt":20}, {"num":22, "cnt":19}, {"num":42, "cnt":9}]},
+    {"range":"50", "nums":[{"num":13, "cnt":20}, {"num":22, "cnt":19}, {"num":42, "cnt":9}]},
+    {"range":"100", "nums":[{"num":13, "cnt":20}, {"num":22, "cnt":19}, {"num":42, "cnt":9}]},
+    {"range":"200", "nums":[{"num":13, "cnt":20}, {"num":22, "cnt":19}, {"num":42, "cnt":9}]}
   ],
  "low_appear":
   [
-    {"range":"all", "nums":[{"num":13, "cnt":20}, {"num":22, "cnt":19}, {"num":42, "cnt":9}]},
+    {"range":"0", "nums":[{"num":13, "cnt":20}, {"num":22, "cnt":19}, {"num":42, "cnt":9}]},
     {"range":"10", "nums":[{"num":13, "cnt":20}, {"num":22, "cnt":19}, {"num":42, "cnt":9}]},
     {"range":"20", "nums":[{"num":13, "cnt":20}, {"num":22, "cnt":19}, {"num":42, "cnt":9}]},
     {"range":"50", "nums":[{"num":13, "cnt":20}, {"num":22, "cnt":19}, {"num":42, "cnt":9}]},
@@ -18,7 +18,7 @@
   ],
  "high_low_rate":
   [
-    {"range":"all", "high":4, "low":2},
+    {"range":"0", "high":4, "low":2},
     {"range":"10", "high":4, "low":2},
     {"range":"20", "high":4, "low":2},
     {"range":"50", "high":4, "low":2},
@@ -27,7 +27,7 @@
   ],
  "odd_even_rate":
   [
-    {"range":"all", "odd":4, "even":2},
+    {"range":"0", "odd":4, "even":2},
     {"range":"10", "odd":4, "even":2},
     {"range":"20", "odd":4, "even":2},
     {"range":"50", "odd":4, "even":2},
@@ -36,7 +36,7 @@
   ],
  "sum_avg":
   [
-    {"range":"all", "sum":154},
+    {"range":"0", "sum":154},
     {"range":"10", "sum":154},
     {"range":"20", "sum":154},
     {"range":"50", "sum":154},
