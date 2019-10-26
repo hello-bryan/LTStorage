@@ -4,39 +4,44 @@
     {"range":"last10", "nums":[{"num":13, "cnt":20}, {"num":22, "cnt":19}, {"num":42, "cnt":9}]},
     {"range":"last20", "nums":[{"num":13, "cnt":20}, {"num":22, "cnt":19}, {"num":42, "cnt":9}]},
     {"range":"last50", "nums":[{"num":13, "cnt":20}, {"num":22, "cnt":19}, {"num":42, "cnt":9}]},
-    {"range":"last100", "nums":[{"num":13, "cnt":20}, {"num":22, "cnt":19}, {"num":42, "cnt":9}]}
+    {"range":"last100", "nums":[{"num":13, "cnt":20}, {"num":22, "cnt":19}, {"num":42, "cnt":9}]},
+    {"range":"last200", "nums":[{"num":13, "cnt":20}, {"num":22, "cnt":19}, {"num":42, "cnt":9}]}
   ],
  "low_appear":
   [
     {"range":"all", "nums":[{"num":13, "cnt":20}, {"num":22, "cnt":19}, {"num":42, "cnt":9}]},
-    {"range":"last10", "nums":[{"num":13, "cnt":20}, {"num":22, "cnt":19}, {"num":42, "cnt":9}]},
-    {"range":"last20", "nums":[{"num":13, "cnt":20}, {"num":22, "cnt":19}, {"num":42, "cnt":9}]},
-    {"range":"last50", "nums":[{"num":13, "cnt":20}, {"num":22, "cnt":19}, {"num":42, "cnt":9}]},
-    {"range":"last100", "nums":[{"num":13, "cnt":20}, {"num":22, "cnt":19}, {"num":42, "cnt":9}]}
+    {"range":"10", "nums":[{"num":13, "cnt":20}, {"num":22, "cnt":19}, {"num":42, "cnt":9}]},
+    {"range":"20", "nums":[{"num":13, "cnt":20}, {"num":22, "cnt":19}, {"num":42, "cnt":9}]},
+    {"range":"50", "nums":[{"num":13, "cnt":20}, {"num":22, "cnt":19}, {"num":42, "cnt":9}]},
+    {"range":"100", "nums":[{"num":13, "cnt":20}, {"num":22, "cnt":19}, {"num":42, "cnt":9}]},
+    {"range":"200", "nums":[{"num":13, "cnt":20}, {"num":22, "cnt":19}, {"num":42, "cnt":9}]}
   ],
  "high_low_rate":
   [
     {"range":"all", "high":4, "low":2},
-    {"range":"last10", "high":4, "low":2},
-    {"range":"last20", "high":4, "low":2},
-    {"range":"last50", "high":4, "low":2},
-    {"range":"last100", "high":4, "low":2}
+    {"range":"10", "high":4, "low":2},
+    {"range":"20", "high":4, "low":2},
+    {"range":"50", "high":4, "low":2},
+    {"range":"100", "high":4, "low":2},
+    {"range":"200", "high":4, "low":2}
   ],
  "odd_even_rate":
   [
     {"range":"all", "odd":4, "even":2},
-    {"range":"last10", "odd":4, "even":2},
-    {"range":"last20", "odd":4, "even":2},
-    {"range":"last50", "odd":4, "even":2},
-    {"range":"last100", "odd":4, "even":2}
+    {"range":"10", "odd":4, "even":2},
+    {"range":"20", "odd":4, "even":2},
+    {"range":"50", "odd":4, "even":2},
+    {"range":"100", "odd":4, "even":2},
+    {"range":"200", "odd":4, "even":2}
   ],
  "sum_avg":
   [
     {"range":"all", "sum":154},
-    {"range":"last10", "sum":154},
-    {"range":"last20", "sum":154},
-    {"range":"last50", "sum":154},
-    {"range":"last100", "sum":154}
+    {"range":"10", "sum":154},
+    {"range":"20", "sum":154},
+    {"range":"50", "sum":154},
+    {"range":"100", "sum":154},
+    {"range":"200", "sum":154}
   ],
  "continue_appear_nums":
   [{"num":2, "cnt":3}, {"num":32, "cnt":2}],
