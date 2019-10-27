@@ -50,5 +50,5 @@
  "average_disappear":
   [{"num":13, "cnt":15}, {"num":22, "cnt":10}, {"num":42, "cnt":5}],
  "server_nums_weight":
-  [{"num":3, "cnt":5}, {"num":9, "cnt":3}, {"num":14, "cnt":1}, {"num":22, "cnt":9}]
+  [{"num":3, "cnt":2}, {"num":9, "cnt":2}, {"num":14, "cnt":1}, {"num":22, "cnt":1}]
 }
