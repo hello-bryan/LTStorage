@@ -2,7 +2,7 @@
    "high_appear":[
       {
          "range":0,
-         "numbs":[
+         "nums":[
             {
                "num":"34",
                "cnt":140
@@ -19,7 +19,7 @@
       },
       {
          "range":10,
-         "numbs":[
+         "nums":[
             {
                "num":"18",
                "cnt":4
@@ -36,7 +36,7 @@
       },
       {
          "range":20,
-         "numbs":[
+         "nums":[
             {
                "num":"32",
                "cnt":5
@@ -53,7 +53,7 @@
       },
       {
          "range":50,
-         "numbs":[
+         "nums":[
             {
                "num":"43",
                "cnt":13
@@ -70,7 +70,7 @@
       },
       {
          "range":100,
-         "numbs":[
+         "nums":[
             {
                "num":"43",
                "cnt":22
@@ -87,7 +87,7 @@
       },
       {
          "range":200,
-         "numbs":[
+         "nums":[
             {
                "num":"33",
                "cnt":38
@@ -106,7 +106,7 @@
    "low_appear":[
       {
          "range":0,
-         "numbs":[
+         "nums":[
             {
                "num":"9",
                "cnt":91
@@ -123,7 +123,7 @@
       },
       {
          "range":10,
-         "numbs":[
+         "nums":[
             {
                "num":"3",
                "cnt":0
@@ -140,7 +140,7 @@
       },
       {
          "range":20,
-         "numbs":[
+         "nums":[
             {
                "num":"8",
                "cnt":0
@@ -157,7 +157,7 @@
       },
       {
          "range":50,
-         "numbs":[
+         "nums":[
             {
                "num":"7",
                "cnt":3
@@ -174,7 +174,7 @@
       },
       {
          "range":100,
-         "numbs":[
+         "nums":[
             {
                "num":"37",
                "cnt":6
@@ -191,7 +191,7 @@
       },
       {
          "range":200,
-         "numbs":[
+         "nums":[
             {
                "num":"20",
                "cnt":15
