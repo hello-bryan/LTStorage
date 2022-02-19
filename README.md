@@ -1,6 +1,6 @@
 # Lotto Bus 통계
 ## 연속 출현 중인 번호
- - <img src="./numbers/42.png" width="50" />번이 2회 연속 출현
+ - **42**번이 2회 연속 출현
 ---
 ## 연속 미출현 번호
 |번호|현재 미출현 회수|최대 미출현 이력|
@@ -13,7 +13,7 @@
 ---
 ## 당첨번호 출현 순위
 ![image](./images/number_appearance_10.png)  
-|번호|당첨 많은 순|번호|당첨 적은 순|
+|번호|출현 많은 순|번호|출현 적은 순|
 |:---:|:---:|:---:|:---:|
 |![34](./numbers/34.png)|152회|![9](./numbers/9.png)|106회|
 |![18](./numbers/18.png)|147회|![32](./numbers/32.png)|114회|
@@ -60,24 +60,12 @@
 ## 최근 10회차 홀:짝 비율
 ![image](./images/Odd_Even_rate_10.png)
 ---
-## 최근 50회차 홀:짝 비율
-![image](./images/Odd_Even_rate_50.png)
----
 ## 최근 100회차 홀:짝 비율
 ![image](./images/Odd_Even_rate_100.png)
----
-## 최근 500회차 홀:짝 비율
-![image](./images/Odd_Even_rate_500.png)
 ---
 ## 최근 10회차 저:고 비율
 ![image](./images/Low_High_rate_10.png)
 ---
-## 최근 50회차 저:고 비율
-![image](./images/Low_High_rate_50.png)
----
 ## 최근 100회차 저:고 비율
 ![image](./images/Low_High_rate_100.png)
----
-## 최근 500회차 저:고 비율
-![image](./images/Low_High_rate_500.png)
 ---
