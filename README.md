@@ -12,9 +12,9 @@
 |![23](./numbers/23.png)|**14회**|44회|
 ---
 ## 당첨번호 출현 순위
-![image](./images/number_appearance_10.png)
+![image](./images/number_appearance_10.png)  
 |번호|당첨 회수|
-|:---:|:---:|:---:|
+|:---:|:---:|
 |![34](./numbers/34.png)|152회|
 |![18](./numbers/18.png)|147회|
 |![27](./numbers/27.png)|145회|
