@@ -1,7 +1,7 @@
 # Lotto Bus 통계
 ## 연속 출현 중인 번호
  - **45**번이 2회 연속 출현
----  
+---
  
 ## 연속 미출현 번호
  
@@ -12,7 +12,7 @@
 |<image src="https://github.com/hello-bryan/LTStorage/blob/master/numbers/34.png"/>|**18회**|43회|
 |<image src="https://github.com/hello-bryan/LTStorage/blob/master/numbers/23.png"/>|**16회**|44회|
 |<image src="https://github.com/hello-bryan/LTStorage/blob/master/numbers/30.png"/>|**15회**|42회|
----  
+---
  
 ## 당첨번호 출현 순위
 <image src="https://github.com/hello-bryan/LTStorage/blob/master/images/number_appearance_10.png" />  
@@ -24,11 +24,11 @@
 |<image src="https://github.com/hello-bryan/LTStorage/blob/master/numbers/43.png" />|146회|<image src="https://github.com/hello-bryan/LTStorage/blob/master/numbers/22.png" />|114회|
 |<image src="https://github.com/hello-bryan/LTStorage/blob/master/numbers/27.png" />|145회|<image src="https://github.com/hello-bryan/LTStorage/blob/master/numbers/30.png" />|120회|
 |<image src="https://github.com/hello-bryan/LTStorage/blob/master/numbers/13.png" />|144회|<image src="https://github.com/hello-bryan/LTStorage/blob/master/numbers/23.png" />|121회|
----  
+---
  
 ## 최근 30회차 당첨번호 패턴
 <image src="https://github.com/hello-bryan/LTStorage/blob/master/images/recent_30_win_num_pattern.png" />
----  
+---
  
 |회차|번호1|번호2|번호3|번호4|번호5|번호6|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -62,21 +62,21 @@
 |976회|<image src="https://github.com/hello-bryan/LTStorage/blob/master/numbers/4.png" />|<image src="https://github.com/hello-bryan/LTStorage/blob/master/numbers/12.png" />|<image src="https://github.com/hello-bryan/LTStorage/blob/master/numbers/14.png" />|<image src="https://github.com/hello-bryan/LTStorage/blob/master/numbers/25.png" />|<image src="https://github.com/hello-bryan/LTStorage/blob/master/numbers/35.png" />|<image src="https://github.com/hello-bryan/LTStorage/blob/master/numbers/37.png" />|
 |975회|<image src="https://github.com/hello-bryan/LTStorage/blob/master/numbers/7.png" />|<image src="https://github.com/hello-bryan/LTStorage/blob/master/numbers/8.png" />|<image src="https://github.com/hello-bryan/LTStorage/blob/master/numbers/9.png" />|<image src="https://github.com/hello-bryan/LTStorage/blob/master/numbers/17.png" />|<image src="https://github.com/hello-bryan/LTStorage/blob/master/numbers/22.png" />|<image src="https://github.com/hello-bryan/LTStorage/blob/master/numbers/24.png" />|
 |974회|<image src="https://github.com/hello-bryan/LTStorage/blob/master/numbers/1.png" />|<image src="https://github.com/hello-bryan/LTStorage/blob/master/numbers/2.png" />|<image src="https://github.com/hello-bryan/LTStorage/blob/master/numbers/11.png" />|<image src="https://github.com/hello-bryan/LTStorage/blob/master/numbers/16.png" />|<image src="https://github.com/hello-bryan/LTStorage/blob/master/numbers/39.png" />|<image src="https://github.com/hello-bryan/LTStorage/blob/master/numbers/44.png" />|
----  
+---
  
 ## 최근 10회차 홀:짝 비율
 <image src="https://github.com/hello-bryan/LTStorage/blob/master/images/Odd_Even_rate_10.png" />
----  
+---
  
 ## 최근 100회차 홀:짝 비율
 <image src="https://github.com/hello-bryan/LTStorage/blob/master/images/Odd_Even_rate_100.png" />
----  
+---
  
 ## 최근 10회차 저:고 비율
 <image src="https://github.com/hello-bryan/LTStorage/blob/master/images/Low_High_rate_10.png" />
----  
+---
  
 ## 최근 100회차 저:고 비율
 <image src="https://github.com/hello-bryan/LTStorage/blob/master/images/Low_High_rate_100.png" />
----  
+---
  
