@@ -5,8 +5,8 @@
   
 |번호|현재 미출현 회수|최대 미출현 이력|  
 |:---:|:---:|:---:|  
-|<image src="https://github.com/hello-bryan/LTStorage/blob/master/numbers/40.png"/>|**34회**|60회|  
-|<image src="https://github.com/hello-bryan/LTStorage/blob/master/numbers/5.png"/>|**21회**|48회|  
-|<image src="https://github.com/hello-bryan/LTStorage/blob/master/numbers/34.png"/>|**18회**|43회|  
-|<image src="https://github.com/hello-bryan/LTStorage/blob/master/numbers/23.png"/>|**16회**|44회|  
-|<image src="https://github.com/hello-bryan/LTStorage/blob/master/numbers/30.png"/>|**15회**|42회|  
+|<img src="https://github.com/hello-bryan/LTStorage/blob/master/numbers/40.png"/>|**34회**|60회|  
+|<img src="https://github.com/hello-bryan/LTStorage/blob/master/numbers/5.png"/>|**21회**|48회|  
+|<img src="https://github.com/hello-bryan/LTStorage/blob/master/numbers/34.png"/>|**18회**|43회|  
+|<img src="https://github.com/hello-bryan/LTStorage/blob/master/numbers/23.png"/>|**16회**|44회|  
+|<img src="https://github.com/hello-bryan/LTStorage/blob/master/numbers/30.png"/>|**15회**|42회|  
