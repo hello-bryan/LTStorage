@@ -12,7 +12,8 @@
 |<image src="https://github.com/hello-bryan/LTStorage/blob/master/numbers/30.png"/>|**15회**|42회|
 ---
 ## 당첨번호 출현 순위
-<image src="https://github.com/hello-bryan/LTStorage/blob/master/images/number_appearance_10.png" />
+<image src="https://github.com/hello-bryan/LTStorage/blob/master/images/number_appearance_10.png" />  
+ 
 |번호|출현 많은 순|번호|출현 적은 순|
 |:---:|:---:|:---:|:---:|
 |<image src="https://github.com/hello-bryan/LTStorage/blob/master/numbers/34.png" />|152회|<image src="https://github.com/hello-bryan/LTStorage/blob/master/numbers/9.png" />|106회|
