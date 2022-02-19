@@ -18,9 +18,13 @@
 |![34](./numbers/34.png)|152회|
 |![18](./numbers/18.png)|147회|
 |![27](./numbers/27.png)|145회|
-|![34](./numbers/34.png)|152회|
-|![18](./numbers/18.png)|147회|
-|![27](./numbers/27.png)|145회|
+|![43](./numbers/43.png)|145회|
+|![13](./numbers/13.png)|144회|
+|![9](./numbers/9.png)|106회|
+|![32](./numbers/32.png)|114회|
+|![22](./numbers/22.png)|114회|
+|![30](./numbers/30.png)|120회|
+|![23](./numbers/23.png)|121회|
 ---
 ## 최근 30회차 당첨번호 패턴
 ![image](./images/recent_30_win_num_pattern.png)
