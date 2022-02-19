@@ -1,39 +1,88 @@
 # Lotto Bus 통계
-## 최근 10회차 홀:짝 비율
-![image](./images/Odd_Even_rate_10.png)
+## 연속 출현 중인 번호
+ - 42번이 2회 연속 출현
 ---
-## 최근 50회차 홀:짝 비율
-![image](./images/Odd_Even_rate_50.png)
----
-## 최근 100회차 홀:짝 비율
-![image](./images/Odd_Even_rate_100.png)
----
-## 최근 500회차 홀:짝 비율
-![image](./images/Odd_Even_rate_500.png)
----
-## 최근 10회차 저:고 비율
-![image](./images/Low_High_rate_10.png)
----
-## 최근 50회차 저:고 비율
-![image](./images/Low_High_rate_50.png)
----
-## 최근 100회차 저:고 비율
-![image](./images/Low_High_rate_100.png)
----
-## 최근 500회차 저:고 비율
-![image](./images/Low_High_rate_500.png)
+## 연속 미출현 번호
+|번호|현재 미출현 회수|최대 미출현 이력|
+|:---:|:---:|:---:|
+|![40](./numbers/40.png)|**32회**|60회|
+|![5](./numbers/5.png)|**19회**|48회|
+|![43](./numbers/43.png)|**18회**|36회|
+|![34](./numbers/34.png)|**16회**|43회|
+|![23](./numbers/23.png)|**14회**|44회|
 ---
 ## 최다/최소 출현 순위
-![image](./images/high_appearance_10.png)
+![image](./images/.)
 ---
-![image](./images/low_appearance_10.png)
+![image](./images/)
+---
+![image](./images/i)
+---
+![image](./images/m)
+---
+![image](./images/a)
+---
+![image](./images/g)
+---
+![image](./images/e)
+---
+![image](./images/s)
+---
+![image](./images/)
+---
+![image](./images/n)
+---
+![image](./images/u)
+---
+![image](./images/m)
+---
+![image](./images/b)
+---
+![image](./images/e)
+---
+![image](./images/r)
+---
+![image](./images/_)
+---
+![image](./images/a)
+---
+![image](./images/p)
+---
+![image](./images/p)
+---
+![image](./images/e)
+---
+![image](./images/a)
+---
+![image](./images/r)
+---
+![image](./images/a)
+---
+![image](./images/n)
+---
+![image](./images/c)
+---
+![image](./images/e)
+---
+![image](./images/_)
+---
+![image](./images/1)
+---
+![image](./images/0)
+---
+![image](./images/.)
+---
+![image](./images/p)
+---
+![image](./images/n)
+---
+![image](./images/g)
 ---
 ## 최근 30회차 당첨번호 패턴
 ![image](./images/recent_30_win_num_pattern.png)
 ---
 |회차|번호1|번호2|번호3|번호4|번호5|번호6|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|1002회|![17](./numbers/17.png)|![25](./numbers/25.png)|![33](./numbers/33.png)|![35](./numbers/35.png)|![38](./numbers/38.png)|![45](./numbers/45.png)|
 |1001회|![6](./numbers/6.png)|![10](./numbers/10.png)|![12](./numbers/12.png)|![14](./numbers/14.png)|![20](./numbers/20.png)|![42](./numbers/42.png)|
 |1000회|![2](./numbers/2.png)|![8](./numbers/8.png)|![19](./numbers/19.png)|![22](./numbers/22.png)|![32](./numbers/32.png)|![42](./numbers/42.png)|
 |999회|![1](./numbers/1.png)|![3](./numbers/3.png)|![9](./numbers/9.png)|![14](./numbers/14.png)|![18](./numbers/18.png)|![28](./numbers/28.png)|
@@ -63,4 +112,29 @@
 |975회|![7](./numbers/7.png)|![8](./numbers/8.png)|![9](./numbers/9.png)|![17](./numbers/17.png)|![22](./numbers/22.png)|![24](./numbers/24.png)|
 |974회|![1](./numbers/1.png)|![2](./numbers/2.png)|![11](./numbers/11.png)|![16](./numbers/16.png)|![39](./numbers/39.png)|![44](./numbers/44.png)|
 |973회|![22](./numbers/22.png)|![26](./numbers/26.png)|![31](./numbers/31.png)|![37](./numbers/37.png)|![41](./numbers/41.png)|![42](./numbers/42.png)|
+|972회|![3](./numbers/3.png)|![6](./numbers/6.png)|![17](./numbers/17.png)|![23](./numbers/23.png)|![37](./numbers/37.png)|![39](./numbers/39.png)|
+---
+## 최근 10회차 홀:짝 비율
+![image](./images/Odd_Even_rate_10.png)
+---
+## 최근 50회차 홀:짝 비율
+![image](./images/Odd_Even_rate_50.png)
+---
+## 최근 100회차 홀:짝 비율
+![image](./images/Odd_Even_rate_100.png)
+---
+## 최근 500회차 홀:짝 비율
+![image](./images/Odd_Even_rate_500.png)
+---
+## 최근 10회차 저:고 비율
+![image](./images/Low_High_rate_10.png)
+---
+## 최근 50회차 저:고 비율
+![image](./images/Low_High_rate_50.png)
+---
+## 최근 100회차 저:고 비율
+![image](./images/Low_High_rate_100.png)
+---
+## 최근 500회차 저:고 비율
+![image](./images/Low_High_rate_500.png)
 ---
